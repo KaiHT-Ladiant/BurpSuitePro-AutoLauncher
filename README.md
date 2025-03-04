@@ -48,7 +48,8 @@ winget install PortSwigger.BurpSuite.Professional --source winget
 2. Follow Telegram link in repository
 3. Download latest JAR file
 4. Place in:   
-- C:\Program Files\PortSwigger\Burp Suite Professional\
+- [YourBurpsuiteProInstalledPath]
+- Example- C:\Program Files\PortSwigger\Burp Suite Professional\
 ```
 3. Clone repository to installation directory
 ```git
