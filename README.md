@@ -1,4 +1,8 @@
-# BurpSuite Pro Auto-Launcher ![Java](https://camo.githubusercontent.com/6ce15b81c1f06d716d7a55fbf07913f35a9bceb3a7931c0d3d6b57e329a29b2c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176612d4544384230303f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661266c6f676f436f6c6f723d7768697465) ![Batchfile](https://camo.githubusercontent.com/6d5e3e1a0e2c8a9a0c6e5e7d6e5e7d6e5e7d6e5e7d6e5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f426174636866696c652d3430344430303f7374796c653d666f722d7468652d6261646765266c6f676f3d77696e646f7773266c6f676f436f6c6f723d626c7565) ![VBScript](https://camo.githubusercontent.com/6b7b4b7b4b7b4b7b4b7b4b7b4b7b4b7b4b7b4b7b4b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f562d42617369632d3030353939453f7374796c653d666f722d7468652d6261646765266c6f676f3d76697375616c2d73747564696f2d636f6465266c6f676f436f6c6f723d7768697465)
+# BurpSuite Pro Auto-Launcher
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Batch](https://img.shields.io/badge/Batch-4D4D4D?style=for-the-badge&logo=windows-terminal&logoColor=white)
+![VBScript](https://img.shields.io/badge/VBScript-0175C2?style=for-the-badge&logo=.net&logoColor=white)
+
 
 > **⚠️ Legal Notice**  
 > For educational purposes only. Burp Suite® is a registered trademark of PortSwigger Ltd. Unauthorized use may violate [EULA](https://portswigger.net/eula).
