@@ -29,7 +29,7 @@ With objShell.CreateShortcut(desktopPath & "\Burpsuite Pro.lnk")
     .TargetPath = targetPath     
     .WorkingDirectory = scriptFolder  
     .Description = "BurpSuite Professional Launcher"
-    .IconLocation = "%BurpSuitePath%BurpSuitePro.exe"
+    .IconLocation = "%BurpSuitePath%\BurpSuitePro.exe"
     .WindowStyle = 1            
     .Save
 End With
