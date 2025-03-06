@@ -1,6 +1,12 @@
 @echo off
 title BurpSuitePro Launcher
 
+REM Get Administrator Permition
+if not "%1"=="am_admin" (
+    powershell start -verb runas '%0' am_admin
+    exit
+)
+
 REM BurpsuitePro Run with Keygen
 REM Code By Kai_HT
 REM Will be updated later
