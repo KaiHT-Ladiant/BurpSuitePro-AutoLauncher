@@ -94,17 +94,23 @@ Where-Object { $_.DisplayName -like '*Burp Suite*' } ^| Select-Object -First 1 I
 
 ## 📜 Changelog
 ### v2.1 (2025-03-06)
-- Added BuffsuitePro location derivation using Powershell commands
+- Added BurpsuitePro location derivation using Powershell commands
+- Setting the Burpsuite Pro Position as a Global Variable
 - Run Java as pre-written commands in Keygen
+- Program location within loader.vbs, using as a global variable used by code.bat
+
 ### v2.0 (2025-03-06)
 - Replaced PowerShell elevation with native runas.exe
 - Added path validation loop
 - Dynamic terminal width calculation
 - Consolidated Java arguments
+
 ### v1.2 (2025-03-05)
 - Setting up a manual input of a path value when running a script due to a path value error in the installation of Buffsuite Pro
+
 ### v1.1 (2025-03-05)
 - When running a script due to an error in the install path value of the Buffsuite Pro, perform it with a pre-populated path value
+
 ### v1.0 (2025-03-04)
 - Creating main codes and uploading script files
 - Specify a specific folder to allow Buffsuite Keygen to run.
