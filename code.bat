@@ -66,6 +66,7 @@ echo.
 
 echo [+] Launching BurpSuite Pro...
 echo.
+SETX BurpSuitePath "%INSTALL_DIR%"
 "%JAVA_EXEC%" ^
 --add-opens=java.desktop/javax.swing=ALL-UNNAMED ^
 --add-opens=java.base/java.lang=ALL-UNNAMED ^
