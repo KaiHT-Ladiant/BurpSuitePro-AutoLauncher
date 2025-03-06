@@ -98,7 +98,7 @@ Where-Object { $_.DisplayName -like '*Burp Suite*' } ^| Select-Object -First 1 I
 - Setting the Burpsuite Pro Position as a Global Variable
 - Run Java as pre-written commands in Keygen
 - Program location within loader.vbs, using as a global variable used by code.bat
-
+- Update create_shortcut.vbs Code.
 ### v2.0 (2025-03-06)
 - Replaced PowerShell elevation with native runas.exe
 - Added path validation loop
